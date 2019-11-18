@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RPOdMP. Laboratory work 2</string>
+    <string name="edit_menu_item">Edit</string>
+    <string name="delete_menu_item">Delete</string>
+    <string name="name">Name</string>
+    <string name="site">Site</string>
+    <string name="phone">Phone</string>
+    <string name="birthday">Birth day</string>
+    <string name="action_confirm">Confirm</string>
+</resources>

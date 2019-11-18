@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">РПОдМП. Лабораторная работа 1</string>
+    <string name="edit_menu_item">Редактировать</string>
+    <string name="delete_menu_item">Удалить</string>
+    <string name="name">ФИО</string>
+    <string name="site">Сайт</string>
+    <string name="phone">Телефон</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="action_confirm">Confirm</string>
+</resources>
